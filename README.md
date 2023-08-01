@@ -19,6 +19,11 @@ The inability of a machine learning model to fit the data perfectly is known as 
   
 **Variance: **
 
+## LEARN NUMPY:
+- NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+
+
+
 
 
 
