@@ -26,6 +26,11 @@ The inability of a machine learning model to fit the data perfectly is known as 
 ```
   !pip install numpy  
 ```
+- **Importing Numpy library
+```
+  import numpy as np
+```
+- We don't have remember all the functions existing in numpy library, just open internet and could look up at some whenever necessary library functions whenever required.
 
 
 
