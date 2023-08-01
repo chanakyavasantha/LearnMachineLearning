@@ -21,6 +21,11 @@ The inability of a machine learning model to fit the data perfectly is known as 
 
 ## LEARN NUMPY:
 - NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+- Let's Start our Numpy Journey with some basic programs
+- **Numpy Installation**
+```
+  !pip install numpy  
+```
 
 
 
