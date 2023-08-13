@@ -1,8 +1,6 @@
 # LEARN MACHINE LEARNING:
 **Boiler template to Implement Ml models in google colab:**
 ```
-import pandas as pd
-import numpy as np
 from google.colab import drive
 drive.mount('/content/drive')
 # Specify Path where the file is located in drive
