@@ -1,4 +1,15 @@
 # LEARN MACHINE LEARNING:
+**Boiler template to Implement Ml models in google colab:**
+```
+import pandas as pd
+import numpy as np
+from google.colab import drive
+drive.mount('/content/drive')
+# Specify Path where the file is located in drive
+path='/content/drive/MyDrive/Colab Notebooks/fileNamw.csv'
+df=pd.read_csv(path)
+df
+```
 ## Syllabus
   - Super Vised Learning vs Un - Super Vised Learning
   - Bias and Variance in machine learning
@@ -14,10 +25,11 @@ Unsupervised learning is a machine learning approach where the algorithm learns 
 
 ### Bias and Variance in machine learnnig ( Machine Learnnig Trade off )
 
-**Bias: **
+
+**Bias:**
 The inability of a machine learning model to fit the data perfectly is known as bias.
   
-**Variance: **
+**Variance:**
 
 ## LEARN NUMPY:
 - NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
